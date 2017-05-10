@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1494449358 source:d:\c or c++ workspace\atempt\main.cpp
+	"window.hpp"
+	<windows.h>
+
+1494448381 d:\c or c++ workspace\atempt\include\window.hpp
+	<SFML/Graphics.hpp>
+	<string>
+	"cell.hpp"
+
+1494447275 d:\c or c++ workspace\atempt\include\cell.hpp
+
+1494448919 source:d:\c or c++ workspace\atempt\src\window.cpp
+	"window.hpp"
+	<iostream>
+
+1494448225 source:d:\c or c++ workspace\atempt\src\cell.cpp
+	"cell.hpp"
+
